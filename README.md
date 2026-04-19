@@ -2,7 +2,7 @@
 
 🚀 AI Engineer focused on building production-ready intelligent systems using machine learning and LLMs.
 
-# 🚀 What I Do
+## 🚀 What I Do
 I design and build AI systems that combine:
 
 - 🧠 Machine Learning foundations
@@ -10,31 +10,31 @@ I design and build AI systems that combine:
 - 🔄 Robust inference pipelines
 - ⚙️ Production-style system design
 
-
-# 🧩 Featured Projects
-## 🏆 Production ML Inference System
+## 🏆 Flagship project
+### 🏆 Production ML Inference System
 - End-to-end ML system with validation, artifact consistency, and failure-aware design
 - 🔗 https://github.com/jearimjarden/production-ml-inference-system
   
-## 🤖 (Upcoming) AI CV Optimization System
+## 🧩 Featured Projects
+### 🤖 (Upcoming) AI CV Optimization System
 - NLP/LLM system for structured CV generation and job matching
 (flagship project)
 
-## 🔌 ML Prediction API Gateway
+### 🔌 ML Prediction API Gateway
 - Exposing ML models via API with structured request handling
 - 🔗 https://github.com/jearimjarden/ml-prediction-api-gateway
 
-## 📊 Credit Risk ML Analysis
+### 📊 Credit Risk ML Analysis
 - Model behavior + business decision analysis using imbalanced data
 - 🔗 https://github.com/jearimjarden/credit-risk-ml-analysis
 
-## 🔍 ML Model Behavior Analysis
+### 🔍 ML Model Behavior Analysis
 -  Understanding model performance, evaluation metrics, and limitations
 - 🔗 https://github.com/jearimjarden/ml-model-behavior-analysis
 
 
 
-# 🧠 My Approach
+## 🧠 My Approach
 
 I focus on building systems that answer:
 -Can this AI system be trusted and used in real-world scenarios?
@@ -44,23 +44,23 @@ Instead of only optimizing accuracy, I prioritize:
 - structured reasoning
 - failure handling
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Languages: Python
 - ML: scikit-learn, pandas, numpy
 - Backend: FastAPI
 - Tools: Git, pytest, logging
 - Concepts: inference pipelines, validation, system design, model evaluation
 
-# 📈 Current Focus
+## 📈 Current Focus
 - NLP & LLM engineering
 - Building AI-powered applications
 - Designing scalable, real-world AI systems
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 - GitHub: https://github.com/jearimjarden
 - LinkedIn: https://www.linkedin.com/in/jearim-jarden-5b10b8151/
 
-# 🔥 Final Note
+## 🔥 Final Note
 I’m not just building models — I’m building AI systems that are usable, reliable, and production-ready
 
 Jearim Jarden
