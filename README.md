@@ -6,12 +6,12 @@
 
 I design and build AI systems that combine:
 
-🧠 Machine Learning foundations
-🤖 LLM-based reasoning and generation
-🔄 Robust inference pipelines
-⚙️ Production-style system design
-🧩 Featured Projects
-🏆 Production ML Inference System
+- 🧠 Machine Learning foundations
+- 🤖 LLM-based reasoning and generation
+- 🔄 Robust inference pipelines
+- ⚙️ Production-style system design
+- 🧩 Featured Projects
+- 🏆 Production ML Inference System
 
 → End-to-end ML system with validation, artifact consistency, and failure-aware design
 🔗 https://github.com/jearimjarden/production-ml-inference-system
