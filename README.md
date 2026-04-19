@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jearim
 
-🚀 AI Engineer focused on building production-ready intelligent systems using machine learning and LLMs.
+🚀 AI Engineer building production-ready intelligent systems using machine learning and LLMs.
+💡 I build AI systems that bridge model intelligence with real-world usability.
 
 ## 🚀 What I Do
 I design and build AI systems that combine:
@@ -11,7 +12,7 @@ I design and build AI systems that combine:
 - ⚙️ Production-style system design
 
 ## 🏆 Flagship project
-### 🏆 Production ML Inference System
+### Production ML Inference System
 - End-to-end ML system with validation, artifact consistency, and failure-aware design
 - 🔗 https://github.com/jearimjarden/production-ml-inference-system
   
@@ -29,15 +30,13 @@ I design and build AI systems that combine:
 - 🔗 https://github.com/jearimjarden/credit-risk-ml-analysis
 
 ### 🔍 ML Model Behavior Analysis
--  Understanding model performance, evaluation metrics, and limitations
+-  Understanding model performance, evaluation metrics, and real-world limitations
 - 🔗 https://github.com/jearimjarden/ml-model-behavior-analysis
-
-
 
 ## 🧠 My Approach
 
 I focus on building systems that answer:
--Can this AI system be trusted and used in real-world scenarios?
+> Can this AI system be trusted and used in real-world scenarios?
 Instead of only optimizing accuracy, I prioritize:
 - reliability
 - consistency
@@ -61,6 +60,6 @@ Instead of only optimizing accuracy, I prioritize:
 - LinkedIn: https://www.linkedin.com/in/jearim-jarden-5b10b8151/
 
 ## 🔥 Final Note
-I’m not just building models — I’m building AI systems that are usable, reliable, and production-ready
+I don’t just build models — I build AI systems that can be trusted in real-world production environments.
 
 Jearim Jarden
