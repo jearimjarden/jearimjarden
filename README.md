@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jearim
 
-🚀 AI Engineer building production-ready intelligent systems using machine learning and LLMs.
-💡 I build AI systems that bridge model intelligence with real-world usability.
+- 🚀 AI Engineer building production-ready intelligent systems using machine learning and LLMs.
+- 💡 I build AI systems that bridge model intelligence with real-world usability.
 
 ## 🚀 What I Do
 I design and build AI systems that combine:
