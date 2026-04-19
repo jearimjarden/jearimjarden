@@ -58,9 +58,11 @@ Instead of only optimizing accuracy, I prioritize:
 - Building AI-powered applications
 - Designing scalable, real-world AI systems
 
-📫 Let's Connect
+# 📫 Let's Connect
 - GitHub: https://github.com/jearimjarden
 - LinkedIn: https://www.linkedin.com/in/jearim-jarden-5b10b8151/
 
-🔥 Final Note
+# 🔥 Final Note
 I’m not just building models — I’m building AI systems that are usable, reliable, and production-ready
+
+Jearim Jarden
