@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jearim
 
-🎯 Aspiring AI Engineer with an Electrical Engineering background, focused on building reliable and production-ready intelligent systems
+🚀 AI Engineer focused on building production-ready intelligent systems using machine learning and LLMs.
 
 # 🚀 What I Do
 I design and build AI systems that combine:
@@ -15,26 +15,24 @@ I design and build AI systems that combine:
 ## 🏆 Production ML Inference System
 - End-to-end ML system with validation, artifact consistency, and failure-aware design
 - 🔗 https://github.com/jearimjarden/production-ml-inference-system
+  
+## 🤖 (Upcoming) AI CV Optimization System
+- NLP/LLM system for structured CV generation and job matching
+(flagship project)
 
 ## 🔌 ML Prediction API Gateway
-
 - Exposing ML models via API with structured request handling
 - 🔗 https://github.com/jearimjarden/ml-prediction-api-gateway
 
 ## 📊 Credit Risk ML Analysis
-
 - Model behavior + business decision analysis using imbalanced data
 - 🔗 https://github.com/jearimjarden/credit-risk-ml-analysis
 
 ## 🔍 ML Model Behavior Analysis
-
 -  Understanding model performance, evaluation metrics, and limitations
 - 🔗 https://github.com/jearimjarden/ml-model-behavior-analysis
 
-## 🤖 (Upcoming) AI CV Optimization System
 
-- NLP/LLM system for structured CV generation and job matching
-(flagship project)
 
 # 🧠 My Approach
 
