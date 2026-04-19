@@ -36,8 +36,8 @@ I design and build AI systems that combine:
 ## 🧠 My Approach
 
 I focus on building systems that answer:
-> Can this AI system be trusted and used in real-world scenarios?
-> Instead of only optimizing accuracy, I prioritize:
+Can this AI system be trusted and used in real-world scenarios?
+Instead of only optimizing accuracy, I prioritize:
 - reliability
 - consistency
 - structured reasoning
