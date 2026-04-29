@@ -11,12 +11,16 @@ I design and build AI systems that combine:
 - Robust inference pipelines
 - Production-style system design
 
-## 🏆 Flagship project
+## 🏆 Flagship project (Ongoing)
+### CV Fit Evaluator (AI RAG System)
+- A RAG system that evaluates how well a CV satisfies job requirements by grounding decisions in explicit evidence from the CV.
+- 🔗 https://github.com/jearimjarden/cv-fit-evaluator
+  
+##  Featured Projects
 ### Production ML Inference System
 - End-to-end ML system with validation, artifact consistency, and failure-aware design
 - 🔗 https://github.com/jearimjarden/production-ml-inference-system
   
-##  Featured Projects
 ### (Upcoming) AI CV Optimization System
 - NLP/LLM system for structured CV generation and job matching
 (flagship project)
