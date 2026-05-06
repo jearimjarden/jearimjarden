@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Jearim
 
-- AI Engineer building production-ready intelligent systems using machine learning and LLMs.
-- I build AI systems that bridge model intelligence with real-world usability.
-
+- Applied AI & Backend Engineer focused on building reliable, production-oriented AI systems.
+- I build intelligent systems that bridge machine learning and LLM capabilities with real-world usability through robust inference pipelines, retrieval architectures, and backend engineering.
+- 
 ##  What I Do
 I design and build AI systems that combine:
 
 - Machine Learning foundations
-- LLM-based reasoning and generation
-- Robust inference pipelines
-- Production-style system design
+- LLM-based reasoning and retrieval
+- Production-oriented backend architecture
+- Reliable inference and validation pipelines
+- Failure-aware system design
 
 ## 🏆 Flagship project (Ongoing)
 ### CV Fit Evaluator (AI RAG System)
@@ -18,22 +19,18 @@ I design and build AI systems that combine:
   
 ##  Featured Projects
 ### Production ML Inference System
-- End-to-end ML system with validation, artifact consistency, and failure-aware design
+- Production-style ML inference system with dynamic schema validation, artifact consistency enforcement, and failure-aware pipeline design.
 - 🔗 https://github.com/jearimjarden/production-ml-inference-system
   
-### (Upcoming) AI CV Optimization System
-- NLP/LLM system for structured CV generation and job matching
-(flagship project)
-
-### ML Prediction API Gateway
-- Exposing ML models via API with structured request handling
+### Production-Oriented ML API Gateway
+- FastAPI-based API gateway demonstrating reliability patterns, structured request handling, concurrency control, observability, and clean backend architecture.
 - 🔗 https://github.com/jearimjarden/ml-prediction-api-gateway
 
 ### Credit Risk ML Analysis
 - Model behavior + business decision analysis using imbalanced data
 - 🔗 https://github.com/jearimjarden/credit-risk-ml-analysis
 
-### ML Model Behavior Analysis
+### ML Reliability & Evaluation Analysis
 -  Understanding model performance, evaluation metrics, and real-world limitations
 - 🔗 https://github.com/jearimjarden/ml-model-behavior-analysis
 
