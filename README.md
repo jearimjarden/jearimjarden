@@ -18,6 +18,11 @@ I design and build AI systems that combine:
 - 🔗 https://github.com/jearimjarden/cv-fit-signal
   
 ##  Featured Projects
+### Automatic Braking System for Two-Wheeled Vehicles Using Computer Vision
+- University final project focused on rider safety using embedded systems, computer vision, and real-time telemetry acquisition
+- Built using YOLOv7, ESP32, Jetson Nano, and computer vision-based obstacle detection
+- Implemented PID-based automatic braking control with closed-loop embedded control architecture
+  
 ### Production ML Inference System
 - Production-style ML inference system with dynamic schema validation, artifact consistency enforcement, and failure-aware pipeline design.
 - 🔗 https://github.com/jearimjarden/production-ml-inference-system
@@ -34,6 +39,7 @@ I design and build AI systems that combine:
 -  Understanding model performance, evaluation metrics, and real-world limitations
 - 🔗 https://github.com/jearimjarden/ml-model-behavior-analysis
 
+
 ## My Approach
 
 I focus on building systems that answer:
@@ -48,10 +54,11 @@ Instead of only optimizing accuracy, I prioritize:
 
 ## Tech Stack
 - Languages: Python
-- ML: scikit-learn, pandas, numpy
-- Backend: FastAPI
-- Tools: Git, pytest, logging
-- Concepts: inference pipelines, validation, system design, model evaluation
+- AI/ML: scikit-learn, sentence-transformers, OpenAI API, FAISS
+- Backend: FastAPI, Pydantic
+- Observability: structured logging, telemetry tracking
+- Tools: Git, pytest
+- Concepts: RAG systems, inference pipelines, validation, retrieval systems, failure handling, system design
 
 ## Current Focus
 - NLP & LLM engineering
