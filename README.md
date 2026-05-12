@@ -2,7 +2,7 @@
 
 - Applied AI & Backend Engineer focused on building reliable, production-oriented AI systems.
 - I build intelligent systems that bridge machine learning and LLM capabilities with real-world usability through robust inference pipelines, retrieval architectures, and backend engineering.
-- 
+  
 ##  What I Do
 I design and build AI systems that combine:
 
@@ -13,9 +13,9 @@ I design and build AI systems that combine:
 - Failure-aware system design
 
 ## 🏆 Flagship project (Ongoing)
-### CV Fit Evaluator (AI RAG System)
-- A RAG system that evaluates how well a CV satisfies job requirements by grounding decisions in explicit evidence from the CV.
-- 🔗 https://github.com/jearimjarden/cv-fit-evaluator
+### CV Fit Signal — Multi-Step RAG Evaluation System
+- Production-oriented multi-step RAG system that evaluates CV fit against job requirements using grounded evidence retrieval, structured scoring, observability, and robust failure handling.
+- 🔗 https://github.com/jearimjarden/cv-fit-signal
   
 ##  Featured Projects
 ### Production ML Inference System
