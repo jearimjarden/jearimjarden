@@ -2,7 +2,7 @@
 
 - Applied AI & Backend Engineer focused on building reliable, production-oriented AI systems.
 - I build intelligent systems that bridge machine learning and LLM capabilities with real-world usability through robust inference pipelines, retrieval architectures, and backend engineering.
-  
+<br>
 ##  What I Do
 I design and build AI systems that combine:
 
@@ -11,12 +11,12 @@ I design and build AI systems that combine:
 - Production-oriented backend architecture
 - Reliable inference and validation pipelines
 - Failure-aware system design
-
+<br>
 ## 🏆 Flagship project (Ongoing)
 ### CV Fit Signal — Multi-Step RAG Evaluation System
 - Production-oriented multi-step RAG system that evaluates CV fit against job requirements using grounded evidence retrieval, structured scoring, observability, and robust failure handling.
 - 🔗 https://github.com/jearimjarden/cv-fit-signal
-  
+<br>  
 ##  Featured Projects
 ### Automatic Braking System for Two-Wheeled Vehicles Using Computer Vision
 - University final project focused on rider safety using embedded systems, computer vision, and real-time telemetry acquisition
@@ -39,7 +39,7 @@ I design and build AI systems that combine:
 -  Understanding model performance, evaluation metrics, and real-world limitations
 - 🔗 https://github.com/jearimjarden/ml-model-behavior-analysis
 
-
+<br>
 ## My Approach
 
 I focus on building systems that answer:
@@ -51,7 +51,7 @@ Instead of only optimizing accuracy, I prioritize:
 - consistency
 - structured reasoning
 - failure handling
-
+<br>
 ## Tech Stack
 - Languages: Python
 - AI/ML: scikit-learn, sentence-transformers, OpenAI API, FAISS
@@ -59,16 +59,16 @@ Instead of only optimizing accuracy, I prioritize:
 - Observability: structured logging, telemetry tracking
 - Tools: Git, pytest
 - Concepts: RAG systems, inference pipelines, validation, retrieval systems, failure handling, system design
-
+<br>
 ## Current Focus
 - NLP & LLM engineering
 - Building AI-powered applications
 - Designing scalable, real-world AI systems
-
+<br>
 ## Let's Connect
 - GitHub: https://github.com/jearimjarden
 - LinkedIn: https://www.linkedin.com/in/jearim-jarden-5b10b8151/
-
+<br>
 ## Final Note
 I don’t just build models — I build AI systems that can be trusted in real-world production environments.
 
