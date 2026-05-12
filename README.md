@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jearim
+# 😁 Hi, I'm Jearim
 
 - Applied AI & Backend Engineer focused on building reliable, production-oriented AI systems.
 - I build intelligent systems that bridge machine learning and LLM capabilities with real-world usability through robust inference pipelines, retrieval architectures, and backend engineering.
